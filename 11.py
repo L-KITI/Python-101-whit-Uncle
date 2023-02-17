@@ -6,5 +6,6 @@ while True:
         break
     s+=n
     i+=1
+print("จำนวนจ้อมูลทั้งหมด",i)
 print("ค่าเฉลี่ย = ",s/i)
-print("จบโปรแกรม")
+print("จบโปรแกรม.")
